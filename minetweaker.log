@@ -1,0 +1,398 @@
+[POSTINITIALIZATION][CLIENT][ERROR] system: JEI is already defined in that package
+[POSTINITIALIZATION][CLIENT][INFO] Adding 1 Initial Inventory Recipe(s) for <minecraft:wooden_sword>:-1
+[AVAILABLE][CLIENT][INFO] MineTweaker: Building registry
+[AVAILABLE][CLIENT][INFO] MineTweaker: Sucessfully built item registry
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding minetweaker command tooltips
+[SERVER_ABOUT_TO_START][SERVER][INFO] 
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding minetweaker command randomthings
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding minetweaker command materials
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding minetweaker command modifiers
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding minetweaker command tconstruct
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding minetweaker command chiselGroups
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding minetweaker command chiselVariations
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding minetweaker command lexiconCategories
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding minetweaker command lexiconPages
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding minetweaker command botaniaBrews
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding minetweaker command lexiconKnowledgeTypes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding minetweaker command botaniaOrechid
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding minetweaker command botania
+[SERVER_ABOUT_TO_START][SERVER][INFO] tried to remove command: botania failed. THIS IS NOT AN ERROR!
+[SERVER_ABOUT_TO_START][SERVER][INFO] tried to remove command: botaniaOrechid failed. THIS IS NOT AN ERROR!
+[SERVER_ABOUT_TO_START][SERVER][INFO] tried to remove command: lexiconKnowledgeTypes failed. THIS IS NOT AN ERROR!
+[SERVER_ABOUT_TO_START][SERVER][INFO] tried to remove command: botaniaBrews failed. THIS IS NOT AN ERROR!
+[SERVER_ABOUT_TO_START][SERVER][INFO] tried to remove command: lexiconPages failed. THIS IS NOT AN ERROR!
+[SERVER_ABOUT_TO_START][SERVER][INFO] tried to remove command: lexiconCategories failed. THIS IS NOT AN ERROR!
+[SERVER_ABOUT_TO_START][SERVER][INFO] tried to remove command: chiselVariations failed. THIS IS NOT AN ERROR!
+[SERVER_ABOUT_TO_START][SERVER][INFO] tried to remove command: chiselGroups failed. THIS IS NOT AN ERROR!
+[SERVER_ABOUT_TO_START][SERVER][INFO] tried to remove command: tconstruct failed. THIS IS NOT AN ERROR!
+[SERVER_ABOUT_TO_START][SERVER][INFO] tried to remove command: modifiers failed. THIS IS NOT AN ERROR!
+[SERVER_ABOUT_TO_START][SERVER][INFO] tried to remove command: materials failed. THIS IS NOT AN ERROR!
+[SERVER_ABOUT_TO_START][SERVER][INFO] tried to remove command: randomthings failed. THIS IS NOT AN ERROR!
+[SERVER_ABOUT_TO_START][SERVER][INFO] tried to remove command: entities failed. THIS IS NOT AN ERROR!
+[SERVER_ABOUT_TO_START][SERVER][INFO] tried to remove command: tooltips failed. THIS IS NOT AN ERROR!
+[SERVER_ABOUT_TO_START][SERVER][INFO] 
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding command minetweaker
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 0 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Wooden Pickaxe
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Wooden Pickaxe
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Wooden Pickaxe
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Wooden Pickaxe
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Wooden Pickaxe
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Wooden Pickaxe
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Tier 1 Crafting Seed
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Tier 2 Crafting Seed
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Tier 3 Crafting Seed
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Tier 4 Crafting Seed
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Tier 5 Crafting Seed
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Master Infusion Crystal
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Yellorium Seeds
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Enderman Head
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Magma Slime Crystal
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Prosperity Shard
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Nether Star
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Nether Star
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Reactor Casing (Legacy)
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Reactor Fuel Rod (Legacy)
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Reactor Control Rod (Legacy)
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Reactor Controller (Legacy)
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Reactor Access Port (Legacy)
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Reactor Coolant Port (Legacy)
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Reactor Access Port (Legacy)
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Reactor Redstone Port (Legacy)
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Reactor RedNet Port (Legacy)
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Reactor Computer Port (Legacy)
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Reactor Glass (Legacy)
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Nether Star
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 0 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 0 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 0 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 0 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 0 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 0 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 0 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 0 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 0 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 0 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 0 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 0 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 0 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 0 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 0 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 0 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 0 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 0 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 0 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 0 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 0 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 0 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 0 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 0 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 0 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 0 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 0 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 0 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 0 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 0 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 0 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 0 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 0 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 0 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 0 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 0 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 0 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Tier 1 Crafting Seed
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Alumina Ore to ore dictionary entry oreAluminium
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Alumina Ore to ore dictionary entry oreAluminum
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing Alumina Ore from ore dictionary entry oreAlumina
+[SERVER_ABOUT_TO_START][SERVER][INFO] Setting localization for the key: tile.substratum.oreAlumina.name to Aluminum Ore
+[SERVER_ABOUT_TO_START][SERVER][INFO] Setting localization for the key: tile.substratum.oreAlumina.name to Aluminium Ore
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Limestone to ore dictionary entry blockLimestone
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Polished Limestone to ore dictionary entry blockLimestone
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Limestone to ore dictionary entry blockLimestoneCobble
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Polished Limestone to ore dictionary entry blockLimestoneCobble
+[SERVER_ABOUT_TO_START][SERVER][INFO] Copying contents of ore dictionary entry dustSalt to itemSalt
+[SERVER_ABOUT_TO_START][SERVER][INFO] Copying contents of ore dictionary entry dustSalt to foodSalt
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Initial Inventory Recipe(s) for <minecraft:wooden_sword>:-1
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] 
+[SERVER_ABOUT_TO_START][SERVER][INFO] 
+[SERVER_ABOUT_TO_START][SERVER][INFO] 
+[SERVER_ABOUT_TO_START][SERVER][INFO] 
+[SERVER_ABOUT_TO_START][SERVER][INFO] 
+[SERVER_ABOUT_TO_START][SERVER][INFO] 
+[SERVER_ABOUT_TO_START][SERVER][INFO] 
+[SERVER_ABOUT_TO_START][SERVER][INFO] 
+[SERVER_ABOUT_TO_START][SERVER][INFO] 
+[SERVER_ABOUT_TO_START][SERVER][INFO] 
+[SERVER_ABOUT_TO_START][SERVER][INFO] 
+[SERVER_ABOUT_TO_START][SERVER][INFO] 
+[SERVER_ABOUT_TO_START][SERVER][INFO] 
+[SERVER_ABOUT_TO_START][SERVER][INFO] 
+[SERVER_STOPPING][SERVER][INFO] Server stopping, Scripts are being rolled back!
+[SERVER_STOPPING][SERVER][INFO] tried to remove command: botania failed. THIS IS NOT AN ERROR!
+[SERVER_STOPPING][SERVER][INFO] tried to remove command: botaniaOrechid failed. THIS IS NOT AN ERROR!
+[SERVER_STOPPING][SERVER][INFO] tried to remove command: lexiconKnowledgeTypes failed. THIS IS NOT AN ERROR!
+[SERVER_STOPPING][SERVER][INFO] tried to remove command: botaniaBrews failed. THIS IS NOT AN ERROR!
+[SERVER_STOPPING][SERVER][INFO] tried to remove command: lexiconPages failed. THIS IS NOT AN ERROR!
+[SERVER_STOPPING][SERVER][INFO] tried to remove command: lexiconCategories failed. THIS IS NOT AN ERROR!
+[SERVER_STOPPING][SERVER][INFO] tried to remove command: chiselVariations failed. THIS IS NOT AN ERROR!
+[SERVER_STOPPING][SERVER][INFO] tried to remove command: chiselGroups failed. THIS IS NOT AN ERROR!
+[SERVER_STOPPING][SERVER][INFO] tried to remove command: tconstruct failed. THIS IS NOT AN ERROR!
+[SERVER_STOPPING][SERVER][INFO] tried to remove command: modifiers failed. THIS IS NOT AN ERROR!
+[SERVER_STOPPING][SERVER][INFO] tried to remove command: materials failed. THIS IS NOT AN ERROR!
+[SERVER_STOPPING][SERVER][INFO] tried to remove command: randomthings failed. THIS IS NOT AN ERROR!
+[SERVER_STOPPING][SERVER][INFO] tried to remove command: entities failed. THIS IS NOT AN ERROR!
+[SERVER_STOPPING][SERVER][INFO] tried to remove command: tooltips failed. THIS IS NOT AN ERROR!
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] 
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Removing contents of ore dictionary entry dustSalt from foodSalt
+[SERVER_STOPPING][SERVER][INFO] Removing contents of ore dictionary entry dustSalt from itemSalt
+[SERVER_STOPPING][SERVER][INFO] Removing Polished Limestone from ore dictionary entry blockLimestoneCobble
+[SERVER_STOPPING][SERVER][INFO] Removing Limestone from ore dictionary entry blockLimestoneCobble
+[SERVER_STOPPING][SERVER][INFO] Removing Polished Limestone from ore dictionary entry blockLimestone
+[SERVER_STOPPING][SERVER][INFO] Removing Limestone from ore dictionary entry blockLimestone
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STOPPING][SERVER][INFO] Setting localization for the key: tile.substratum.oreAlumina.name to null
+[SERVER_STOPPING][SERVER][INFO] Setting localization for the key: tile.substratum.oreAlumina.name to Alumina Ore
+[SERVER_STOPPING][SERVER][INFO] Restoring Alumina Ore to ore dictionary entry oreAlumina
+[SERVER_STOPPING][SERVER][INFO] Removing Alumina Ore from ore dictionary entry oreAluminum
+[SERVER_STOPPING][SERVER][INFO] Removing Alumina Ore from ore dictionary entry oreAluminium
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Tier 1 Crafting Seed
+[SERVER_STOPPING][SERVER][INFO] Restoring 0 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 0 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 0 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 0 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 0 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 0 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 0 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 0 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 0 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 0 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 0 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 0 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 0 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 0 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 0 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 0 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 0 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 0 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 0 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 0 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 0 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 0 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 0 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 0 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 0 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 0 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 0 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 0 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 0 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 0 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 0 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 0 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 0 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 0 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 0 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 0 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 0 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Nether Star
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Reactor Glass (Legacy)
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Reactor Computer Port (Legacy)
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Reactor RedNet Port (Legacy)
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Reactor Redstone Port (Legacy)
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Reactor Access Port (Legacy)
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Reactor Coolant Port (Legacy)
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Reactor Access Port (Legacy)
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Reactor Controller (Legacy)
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Reactor Control Rod (Legacy)
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Reactor Fuel Rod (Legacy)
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Reactor Casing (Legacy)
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Nether Star
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Nether Star
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Prosperity Shard
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Magma Slime Crystal
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Enderman Head
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Yellorium Seeds
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Master Infusion Crystal
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Tier 5 Crafting Seed
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Tier 4 Crafting Seed
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Tier 3 Crafting Seed
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Tier 2 Crafting Seed
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Tier 1 Crafting Seed
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Wooden Pickaxe
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Wooden Pickaxe
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Wooden Pickaxe
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Wooden Pickaxe
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Wooden Pickaxe
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Wooden Pickaxe
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 0 recipes
+[SERVER_STOPPING][SERVER][INFO] tried to remove command: minetweaker failed. THIS IS NOT AN ERROR!

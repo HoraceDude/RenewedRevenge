@@ -1,0 +1,1 @@
+mods.initialinventory.InvHandler.addStartingItem(<minecraft:wooden_sword>);
