@@ -4,11 +4,14 @@
 		"copper": {
 			"distribution": "uniform",
 			"generator": {
+				"type": "large-vein",
 				"block": "thermalfoundation:ore",
 				"material": "minecraft:stone",
-				"cluster-size": 8
+				"cluster-size": 50,
+				"sparse": false
 			},
-			"cluster-count": 8,
+			"cluster-count": 2,
+			"chunk-chance": 180,
 			"min-height": 40,
 			"max-height": 75,
 			"retrogen": "true",
@@ -24,14 +27,17 @@
 		"tin": {
 			"distribution": "uniform",
 			"generator": {
+				"type": "large-vein",
 				"block": {
 					"name": "thermalfoundation:ore",
 					"metadata": 1
 				},
 				"material": "minecraft:stone",
-				"cluster-size": 8
+				"cluster-size": 50,
+				"sparse": false
 			},
-			"cluster-count": 7,
+			"cluster-count": 2,
+			"chunk-chance": 180,
 			"min-height": 20,
 			"max-height": 55,
 			"retrogen": "true",
@@ -47,6 +53,7 @@
 		"silver": {
 			"distribution": "uniform",
 			"generator": {
+				"type": "large-vein",
 				"block": [
 					{
 						"name": "thermalfoundation:ore",
@@ -60,9 +67,11 @@
 					}
 				],
 				"material": "minecraft:stone",
-				"cluster-size": 8
+				"cluster-size": 50,
+				"sparse": false
 			},
-			"cluster-count": 4,
+			"cluster-count": 2,
+			"chunk-chance": 180,
 			"min-height": 5,
 			"max-height": 30,
 			"retrogen": "true",
@@ -78,6 +87,7 @@
 		"lead": {
 			"distribution": "uniform",
 			"generator": {
+				"type": "large-vein",
 				"block": [
 					{
 						"name": "thermalfoundation:ore",
@@ -91,9 +101,11 @@
 					}
 				],
 				"material": "minecraft:stone",
-				"cluster-size": 8
+				"cluster-size": 50,
+				"sparse": false
 			},
-			"cluster-count": 4,
+			"cluster-count": 2,
+			"chunk-chance": 180,
 			"min-height": 10,
 			"max-height": 35,
 			"retrogen": "true",
@@ -109,14 +121,17 @@
 		"nickel": {
 			"distribution": "uniform",
 			"generator": {
+				"type": "large-vein",
 				"block": {
 					"name": "thermalfoundation:ore",
 					"metadata": 5
 				},
 				"material": "minecraft:stone",
-				"cluster-size": 4
+				"cluster-size": 50,
+				"sparse": false
 			},
 			"cluster-count": 2,
+			"chunk-chance": 180,
 			"min-height": 5,
 			"max-height": 20,
 			"retrogen": "true",
@@ -130,6 +145,7 @@
 			}
 		},
 		"copper_ocean": {
+			"enabled": false,
 			"distribution": "uniform",
 			"generator": {
 				"block": "thermalfoundation:ore",
@@ -158,6 +174,7 @@
 			}
 		},
 		"copper_high": {
+			"enabled": false,
 			"distribution": "uniform",
 			"generator": {
 				"block": "thermalfoundation:ore",

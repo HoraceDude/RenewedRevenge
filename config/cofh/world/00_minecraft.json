@@ -145,11 +145,14 @@
 		"iron": {
 			"distribution": "uniform",
 			"generator": {
+				"type": "large-vein",
 				"block": "iron_ore",
 				"material": "minecraft:stone",
-				"cluster-size": 9
+				"cluster-size": 50,
+				"sparse": false
 			},
-			"cluster-count": 20,
+			"cluster-count": 2,
+			"chunk-chance": 180,
 			"min-height": 0,
 			"max-height": 64,
 			"retrogen": false,
@@ -166,11 +169,14 @@
 		"gold": {
 			"distribution": "uniform",
 			"generator": {
+				"type": "large-vein",
 				"block": "gold_ore",
 				"material": "minecraft:stone",
-				"cluster-size": 9
+				"cluster-size": 50,
+				"sparse": false
 			},
 			"cluster-count": 2,
+			"chunk-chance": 180,
 			"min-height": 0,
 			"max-height": 32,
 			"retrogen": false,
@@ -187,11 +193,14 @@
 		"redstone": {
 			"distribution": "uniform",
 			"generator": {
+				"type": "large-vein",
 				"block": "redstone_ore",
 				"material": "minecraft:stone",
-				"cluster-size": 8
+				"cluster-size": 50,
+				"sparse": false
 			},
-			"cluster-count": 8,
+			"cluster-count": 2,
+			"chunk-chance": 180,
 			"min-height": 0,
 			"max-height": 16,
 			"retrogen": false,
@@ -208,11 +217,14 @@
 		"diamond": {
 			"distribution": "uniform",
 			"generator": {
+				"type": "large-vein",
 				"block": "diamond_ore",
 				"material": "minecraft:stone",
-				"cluster-size": 8
+				"cluster-size": 50,
+				"sparse": false
 			},
-			"cluster-count": 1,
+			"cluster-count": 2,
+			"chunk-chance": 180,
 			"min-height": 0,
 			"max-height": 16,
 			"retrogen": false,
@@ -227,15 +239,18 @@
 		},
 
 		"lapis": {
-			"distribution": "gaussian",
+			"distribution": "uniform",
 			"generator": {
+				"type": "large-vein",
 				"block": "lapis_ore",
 				"material": "minecraft:stone",
-				"cluster-size": 7
+				"cluster-size": 50,
+				"sparse": false
 			},
-			"cluster-count": 1,
-			"center-height": 16,
-			"spread": 16,
+			"cluster-count": 2,
+			"chunk-chance": 180,
+			"min-height": 0,
+			"max-height": 64,
 			"retrogen": false,
 			"biome": "all",
 			"dimension": {
@@ -248,7 +263,7 @@
 		},
 
 		"mesa_gold": {
-			"enabled": true,
+			"enabled": false,
 			"distribution": "uniform",
 			"generator": {
 				"block": {
@@ -289,34 +304,18 @@
 		"emerald": {
 			"distribution": "uniform",
 			"generator": {
-				"block": {
-					"name": "emerald_ore"
-				},
+				"type": "large-vein",
+				"block": "emerald_ore",
 				"material": "minecraft:stone",
-				"cluster-size": 1
+				"cluster-size": 50,
+				"sparse": false
 			},
-			"cluster-count": {
-				"min": 3,
-				"max": 6
-			},
+			"cluster-count": 2,
+			"chunk-chance": 180,
 			"min-height": 4,
 			"max-height": 28,
 			"retrogen": false,
-			"biome": {
-				"restriction": "whitelist",
-				"value": [
-					{
-						"type": "id",
-						"entry": [
-							"extreme_hills",
-							"smaller_extreme_hills",
-							"extreme_hills_with_trees",
-							"mutated_extreme_hills",
-							"mutated_extreme_hills_with_trees"
-						]
-					}
-				]
-			},
+			"biome": "all",
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [
