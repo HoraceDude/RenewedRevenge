@@ -1,6 +1,7 @@
-/log/*
-/journeymap/*
-/backups/*
-/crash-reports/*
-/saves/*
-/screenshots/*
+logs/*
+journeymap/*
+backups/*
+crash-reports/*
+saves/*
+screenshots/*
+crafttweaker.log
