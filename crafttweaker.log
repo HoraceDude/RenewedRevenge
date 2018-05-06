@@ -239,7 +239,7 @@ java.lang.NullPointerException
 [INITIALIZATION][CLIENT][ERROR] MineTweakerRecipeMaker.zs:68: Could not resolve <mysticalagriculture : base_crafting_seed>
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: recipe-fixes.zs}
 [INITIALIZATION][CLIENT][ERROR] recipe-fixes.zs:2: Could not resolve <substratum : dustSmall : 26>
-[INITIALIZATION][CLIENT][INFO] Completed script loading in: 279ms
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 303ms
 [POSTINITIALIZATION][CLIENT][INFO] Removing Shaped recipes for <tconstruct:materials:10>
 [POSTINITIALIZATION][CLIENT][INFO] 0 removed
 [POSTINITIALIZATION][CLIENT][INFO] Removing Shaped recipes for <bigreactors:reactorglass>
@@ -392,3 +392,4 @@ java.lang.NullPointerException
 [AVAILABLE][CLIENT][INFO] Altering Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
 [AVAILABLE][CLIENT][INFO] Altering Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
 [AVAILABLE][CLIENT][INFO] Altering Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STARTED][CLIENT][INFO] Fixed the RecipeBook
