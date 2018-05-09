@@ -287,9 +287,9 @@
   <recipe name="Sagmill: Dead Bush" required="true">
     <sagmilling energy="1200">
       <input name="minecraft:deadbush"/>
-      <output name="itemPlantbrown" chance="0.2" />
+      <output name="itemPlantbrown" chance="0.6" />
+      <output name="itemPlantbrown" chance="0.3" />
       <output name="itemPlantbrown" chance="0.1" />
-      <output name="itemPlantbrown" chance="0.05" />
     </sagmilling>
   </recipe>
 
@@ -401,13 +401,20 @@
   <recipe name="Sagmill: Flower Pot" required="false">
     <sagmilling energy="2000">
       <input name="item:minecraft:flower_pot"/>
-      <output name="itemClay" chance="0.9" />
-      <output name="itemClay" chance="0.3" />
-      <output name="itemClay" chance="0.1" />
+      <output name="ingotBrick" chance="0.9" />
+      <output name="ingotBrick" chance="0.3" />
+      <output name="ingotBrick" chance="0.1" />
       <output name="dustCoal" chance="0.05" />
     </sagmilling>
   </recipe>
 
+  <recipe name="Sagmill: Prismarine" required="true">
+    <sagmilling energy="2000" bonus="none">
+      <input name="gemPrismarine"/>
+      <output name="dustPrismarine" />
+      <output name="dustPrismarine" chance="0.1"/>
+    </sagmilling>
+  </recipe>
 
 
 
