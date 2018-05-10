@@ -46,7 +46,7 @@ Exception Details:
 	at crafttweaker.runtime.CrTTweaker.load(CrTTweaker.java:61)
 	at crafttweaker.CrafttweakerImplementationAPI.load(CrafttweakerImplementationAPI.java:115)
 	at crafttweaker.mc1120.events.CommonEventHandler.registerRecipes(CommonEventHandler.java:49)
-	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_512_CommonEventHandler_registerRecipes_Register.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_521_CommonEventHandler_registerRecipes_Register.invoke(.dynamic)
 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
 	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:143)
 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:179)
@@ -77,7 +77,7 @@ java.lang.NullPointerException
 	at crafttweaker.runtime.CrTTweaker.load(CrTTweaker.java:61)
 	at crafttweaker.CrafttweakerImplementationAPI.load(CrafttweakerImplementationAPI.java:115)
 	at crafttweaker.mc1120.events.CommonEventHandler.registerRecipes(CommonEventHandler.java:49)
-	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_512_CommonEventHandler_registerRecipes_Register.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_521_CommonEventHandler_registerRecipes_Register.invoke(.dynamic)
 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
 	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:143)
 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:179)
@@ -239,7 +239,7 @@ java.lang.NullPointerException
 [INITIALIZATION][CLIENT][ERROR] MineTweakerRecipeMaker.zs:68: Could not resolve <mysticalagriculture : base_crafting_seed>
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: recipe-fixes.zs}
 [INITIALIZATION][CLIENT][ERROR] recipe-fixes.zs:2: Could not resolve <substratum : dustSmall : 26>
-[INITIALIZATION][CLIENT][INFO] Completed script loading in: 310ms
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 293ms
 [POSTINITIALIZATION][CLIENT][INFO] Removing Shaped recipes for <tconstruct:materials:10>
 [POSTINITIALIZATION][CLIENT][INFO] 0 removed
 [POSTINITIALIZATION][CLIENT][INFO] Removing Shaped recipes for <bigreactors:reactorglass>
@@ -392,3 +392,4 @@ java.lang.NullPointerException
 [AVAILABLE][CLIENT][INFO] Altering Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
 [AVAILABLE][CLIENT][INFO] Altering Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
 [AVAILABLE][CLIENT][INFO] Altering Forestry Squeezer Recipe(s) for <liquid:seed.oil> * 5
+[SERVER_STARTED][CLIENT][INFO] Fixed the RecipeBook
