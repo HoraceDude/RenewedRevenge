@@ -4,3 +4,7 @@
 /crash-reports/*
 /saves/*
 /screenshots/*
+/crafttweaker.log
+/usercache.json
+/usernamecache.json
+/config/splash.properties
