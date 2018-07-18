@@ -1,5 +1,5 @@
-#Fri Feb 16 19:46:42 CST 2018
-shaderPack=Sildurs Vibrant Shaders v1.164 High.zip
+#Mon Mar 19 20:20:23 CDT 2018
+shaderPack=OFF
 antialiasingLevel=0
 normalMapEnabled=true
 specularMapEnabled=true
