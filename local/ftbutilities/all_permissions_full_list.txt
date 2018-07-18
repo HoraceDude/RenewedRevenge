@@ -1,4 +1,4 @@
-14075 nodes in total
+14076 nodes in total
 Modifying this file won't have any effect!
 
 block.tap: ALL
@@ -219,8 +219,11 @@ command.ftb.edit_config.lycanitesmobs\arcticmobs-worldgen: CMD
 command.ftb.edit_config.lycanitesmobs\demonmobs-general: CMD
 command.ftb.edit_config.lycanitesmobs\demonmobs-spawning: CMD
 command.ftb.edit_config.lycanitesmobs\desertmobs-spawning: CMD
+command.ftb.edit_config.lycanitesmobs\elementalmobs-general: CMD
 command.ftb.edit_config.lycanitesmobs\elementalmobs-spawning: CMD
+command.ftb.edit_config.lycanitesmobs\forestmobs-general: CMD
 command.ftb.edit_config.lycanitesmobs\forestmobs-spawning: CMD
+command.ftb.edit_config.lycanitesmobs\freshwatermobs-general: CMD
 command.ftb.edit_config.lycanitesmobs\freshwatermobs-spawning: CMD
 command.ftb.edit_config.lycanitesmobs\infernomobs-general: CMD
 command.ftb.edit_config.lycanitesmobs\infernomobs-spawning: CMD
@@ -234,7 +237,9 @@ command.ftb.edit_config.lycanitesmobs\lycanitesmobs-spawning: CMD
 command.ftb.edit_config.lycanitesmobs\lycanitesmobs-version: CMD
 command.ftb.edit_config.lycanitesmobs\mountainmobs-general: CMD
 command.ftb.edit_config.lycanitesmobs\mountainmobs-spawning: CMD
+command.ftb.edit_config.lycanitesmobs\plainsmobs-general: CMD
 command.ftb.edit_config.lycanitesmobs\plainsmobs-spawning: CMD
+command.ftb.edit_config.lycanitesmobs\saltwatermobs-general: CMD
 command.ftb.edit_config.lycanitesmobs\saltwatermobs-spawning: CMD
 command.ftb.edit_config.lycanitesmobs\shadowmobs-general: CMD
 command.ftb.edit_config.lycanitesmobs\shadowmobs-spawning: CMD
@@ -11119,6 +11124,7 @@ ftbu.claims.item.industrialforegoing.block_destroyer: ALL
 ftbu.claims.item.industrialforegoing.block_placer: ALL
 ftbu.claims.item.industrialforegoing.book_manual: ALL
 ftbu.claims.item.industrialforegoing.conveyor: ALL
+ftbu.claims.item.industrialforegoing.conveyor_upgrade: ALL
 ftbu.claims.item.industrialforegoing.crop_enrich_material_injector: ALL
 ftbu.claims.item.industrialforegoing.crop_recolector: ALL
 ftbu.claims.item.industrialforegoing.crop_sower: ALL

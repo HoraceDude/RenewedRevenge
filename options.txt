@@ -93,14 +93,6 @@ key_Side Inventory Key:46
 key_Hub Expand Key:14
 key_psimisc.keybind:46
 key_quark.keybind.lockBuilding:37
-key_quark.keybind.dropoff:0
-key_quark.keybind.changeHotbar:44
-key_quark.keybind.chestSort:0
-key_quark.keybind.chestDropoff:0
-key_quark.keybind.chestMerge:0
-key_quark.keybind.chestRestock:0
-key_quark.keybind.chestExtract:0
-key_quark.keybind.toggleAutojump:48
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -113,6 +105,14 @@ key_quark.emote.shrug:0
 key_quark.emote.headbang:0
 key_quark.emote.weep:0
 key_quark.emote.facepalm:0
+key_quark.keybind.dropoff:0
+key_quark.keybind.changeHotbar:44
+key_quark.keybind.chestSort:0
+key_quark.keybind.chestDropoff:0
+key_quark.keybind.chestMerge:0
+key_quark.keybind.chestRestock:0
+key_quark.keybind.chestExtract:0
+key_quark.keybind.toggleAutojump:48
 key_keybind.baublesinventory:48
 key_enderio.keybind.glidertoggle:34
 key_enderio.keybind.soundlocator:14
@@ -133,11 +133,18 @@ key_enderutilities.key.togglemode:34
 key_key.ftbu.guide:23
 key_key.ftbu.warp:0
 key_ingameinfoxml.key.toggle:0
-key_key.inventorysorter.itemout:-201
 key_key.inventorysorter.itemin:-200
+key_key.inventorysorter.itemout:-201
 key_key.inventorysorter.sort:-98
 key_key.ironbackpacks.equip:35
 key_key.ironbackpacks.open:23
+key_Mount Ability:45
+key_Mount Inventory:0
+key_Beastiary Index:34
+key_Beastiary:0
+key_Pets:0
+key_Summoning:0
+key_Minion Selection:19
 key_veinminer.key.enable:41
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
@@ -185,12 +192,12 @@ key_nei.options.keys.world.midnight:0
 key_nei.options.keys.world.rain:0
 key_nei.options.keys.world.heal:0
 key_nei.options.keys.world.creative:0
-key_invtweaks.key.sort:19
-key_key.gui.weapon_interface:37
 key_Mekanism Item Mode Switch:14
 key_Mekanism Armor Mode Switch:33
 key_Mekanism Feet Mode Switch:35
 key_Mekanism Voice:22
+key_invtweaks.key.sort:19
+key_key.gui.weapon_interface:37
 key_key.modifier:13
 key_key.submode:0
 key_key.clipboardPaste:210
