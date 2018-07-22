@@ -18,38 +18,8 @@ recipes.removeShaped(<mysticalagriculture:tier4_crafting_seed>);
 recipes.removeShaped(<mysticalagriculture:tier5_crafting_seed>);
 recipes.removeShaped(<mysticalagriculture:master_infusion_crystal>);
 
-recipes.addShaped(<minecraft:wooden_pickaxe>,
-	[[<minecraft:planks>, <minecraft:planks>, <minecraft:planks>],
-	[null, <minecraft:stick>, null],
-	[null, <minecraft:stick>, null]]);
-
-recipes.addShaped(<minecraft:wooden_pickaxe>,
-	[[<minecraft:planks:1>, <minecraft:planks:1>, <minecraft:planks:1>],
-	[null, <minecraft:stick>, null],
-	[null, <minecraft:stick>, null]]);
-
-recipes.addShaped(<minecraft:wooden_pickaxe>,
-	[[<minecraft:planks:2>, <minecraft:planks:2>, <minecraft:planks:2>],
-	[null, <minecraft:stick>, null],
-	[null, <minecraft:stick>, null]]);
-
-recipes.addShaped(<minecraft:wooden_pickaxe>,
-	[[<minecraft:planks:3>, <minecraft:planks:3>, <minecraft:planks:3>],
-	[null, <minecraft:stick>, null],
-	[null, <minecraft:stick>, null]]);
-
-recipes.addShaped(<minecraft:wooden_pickaxe>,
-	[[<minecraft:planks:4>, <minecraft:planks:4>, <minecraft:planks:4>],
-	[null, <minecraft:stick>, null],
-	[null, <minecraft:stick>, null]]);
-
-recipes.addShaped(<minecraft:wooden_pickaxe>,
-	[[<minecraft:planks:5>, <minecraft:planks:5>, <minecraft:planks:5>],
-	[null, <minecraft:stick>, null],
-	[null, <minecraft:stick>, null]]);
-
 // Mystical Agriculture
-recipes.addShaped(<mysticalagriculture:tier1_crafting_seed>,
+recipes.addShaped(<mysticalagriculture:crafting:17>,
 	[[<extrautils2:compressedcobblestone:1>, <mysticalagriculture:inferium_essence>, <extrautils2:compressedcobblestone:1>],
 	[<mysticalagriculture:inferium_essence>, <mysticalagriculture:base_crafting_seed>, <mysticalagriculture:inferium_essence>],
 	[<mysticalagriculture:inferium_block>, <mysticalagriculture:inferium_essence>, <mysticalagriculture:inferium_block>]]);
