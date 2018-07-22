@@ -11,77 +11,62 @@ recipes.removeShaped(<bigreactors:reactorcasing>);
 recipes.removeShaped(<bigreactors:reactorfuelrod>);
 recipes.removeShaped(<bigreactors:reactorcontrolrod>);
 
-recipes.removeShaped(<mysticalagriculture:tier1_crafting_seed>);
-recipes.removeShaped(<mysticalagriculture:tier2_crafting_seed>);
-recipes.removeShaped(<mysticalagriculture:tier3_crafting_seed>);
-recipes.removeShaped(<mysticalagriculture:tier4_crafting_seed>);
-recipes.removeShaped(<mysticalagriculture:tier5_crafting_seed>);
+recipes.removeShaped(<mysticalagriculture:crafting:17>);
+recipes.removeShaped(<mysticalagriculture:crafting:18>);
+recipes.removeShaped(<mysticalagriculture:crafting:19>);
+recipes.removeShaped(<mysticalagriculture:crafting:20>);
+recipes.removeShaped(<mysticalagriculture:crafting:21>);
 recipes.removeShaped(<mysticalagriculture:master_infusion_crystal>);
 
 // Mystical Agriculture
+// Tier 1 crafting seed
 recipes.addShaped(<mysticalagriculture:crafting:17>,
-	[[<extrautils2:compressedcobblestone:1>, <mysticalagriculture:inferium_essence>, <extrautils2:compressedcobblestone:1>],
-	[<mysticalagriculture:inferium_essence>, <mysticalagriculture:base_crafting_seed>, <mysticalagriculture:inferium_essence>],
-	[<mysticalagriculture:inferium_block>, <mysticalagriculture:inferium_essence>, <mysticalagriculture:inferium_block>]]);
+	[[, <mysticalagriculture:crafting>, ],
+	[<mysticalagriculture:crafting>, <mysticalagriculture:crafting:16>, <mysticalagriculture:crafting>],
+	[<mysticalagriculture:storage>, <mysticalagriculture:crafting>, <mysticalagriculture:ingot_storage:1>]]);
 
-recipes.addShaped(<mysticalagriculture:tier2_crafting_seed>,
-	[[<extrautils2:compressedcobblestone:2>, <mysticalagriculture:prudentium_essence>, <extrautils2:compressedcobblestone:2>],
-	[<mysticalagriculture:prudentium_essence>, <mysticalagriculture:tier1_crafting_seed>, <mysticalagriculture:prudentium_essence>],
-	[<mysticalagriculture:nature_essence>, <mysticalagriculture:prudentium_essence>, <mysticalagriculture:zombie_essence>]]);
+// Tier 2 crafting seed
+recipes.addShaped(<mysticalagriculture:crafting:18>,
+	[[, <mysticalagriculture:crafting:1>,],
+	[<mysticalagriculture:crafting:1>, <mysticalagriculture:crafting:17>, <mysticalagriculture:crafting:1>],
+	[<mysticalagriculture:nature_essence>, <mysticalagriculture:crafting:1>, <mysticalagriculture:zombie_essence>]]);
 
-recipes.addShaped(<mysticalagriculture:tier3_crafting_seed>,
-	[[<extrautils2:compressedcobblestone:2>, <mysticalagriculture:intermedium_essence>, <extrautils2:compressedcobblestone:2>],
-	[<mysticalagriculture:intermedium_essence>, <mysticalagriculture:tier2_crafting_seed>, <mysticalagriculture:intermedium_essence>],
-	[<mysticalagriculture:slime_essence>, <mysticalagriculture:intermedium_essence>, <mysticalagriculture:dye_essence>]]);
+// Tier 3 crafting seed
+recipes.addShaped(<mysticalagriculture:crafting:19>,
+	[[, <mysticalagriculture:crafting:2>,],
+	[<mysticalagriculture:crafting:2>, <mysticalagriculture:crafting:18>, <mysticalagriculture:crafting:2>],
+	[<mysticalagriculture:slime_essence>, <mysticalagriculture:crafting:2>, <mysticalagriculture:dye_essence>]]);
 
-recipes.addShaped(<mysticalagriculture:tier4_crafting_seed>,
-	[[<extrautils2:compressedcobblestone:3>, <mysticalagriculture:superium_essence>, <extrautils2:compressedcobblestone:3>],
-	[<mysticalagriculture:superium_essence>, <mysticalagriculture:tier3_crafting_seed>, <mysticalagriculture:superium_essence>],
-	[<mysticalagriculture:guardian_essence>, <mysticalagriculture:superium_essence>, <mysticalagriculture:creeper_essence>]]);
+// Tier 4 crafting seed
+recipes.addShaped(<mysticalagriculture:crafting:20>,
+	[[, <mysticalagriculture:crafting:3>,],
+	[<mysticalagriculture:crafting:3>, <mysticalagriculture:crafting:19>, <mysticalagriculture:crafting:3>],
+	[<mysticalagriculture:guardian_essence>, <mysticalagriculture:crafting:3>, <mysticalagriculture:creeper_essence>]]);
 
-recipes.addShaped(<mysticalagriculture:tier5_crafting_seed>,
-	[[<mysticalagriculture:blaze_essence>, <mysticalagriculture:supremium_essence>, <mysticalagriculture:wither_skeleton_chunk>],
-	[<mysticalagriculture:supremium_essence>, <mysticalagriculture:tier4_crafting_seed>, <mysticalagriculture:supremium_essence>],
-	[<mysticalagriculture:cobalt_essence>, <mysticalagriculture:supremium_essence>, <mysticalagriculture:steel_essence>]]);
+// Tier 5 crafting seed
+recipes.addShaped(<mysticalagriculture:crafting:21>,
+	[[<mysticalagriculture:blaze_essence>, <mysticalagriculture:crafting:4>, <mysticalagriculture:chunk:20>],
+	[<mysticalagriculture:crafting:4>, <mysticalagriculture:crafting:20>, <mysticalagriculture:crafting:4>],
+	[<mysticalagriculture:cobalt_essence>, <mysticalagriculture:crafting:4>, <mysticalagriculture:steel_essence>]]);
 
 recipes.addShaped(<mysticalagriculture:master_infusion_crystal>,
-	[[<mysticalagriculture:prosperity_shard>, <mysticalagriculture:supremium_essence>, <mysticalagriculture:prosperity_shard>],
-	[<mysticalagriculture:supremium_essence>, <minecraft:diamond_block>, <mysticalagriculture:supremium_essence>],
-	[<minecraft:nether_star>, <mysticalagriculture:supremium_essence>, <extrautils2:compressedcobblestone:5>]]);
+	[[<mysticalagriculture:crafting:5>, <mysticalagriculture:crafting:5>, <mysticalagriculture:crafting:5>],
+	[<mysticalagriculture:crafting:5>, <minecraft:diamond_block>, <mysticalagriculture:crafting:5>],
+	[<minecraft:nether_star>, <mysticalagriculture:crafting:5>, <extrautils2:compressedcobblestone:5>]]);
 
 recipes.addShaped(<mysticalagriculture:yellorium_seeds>,
-	[[<bigreactors:dustmetals>, <mysticalagriculture:supremium_essence>, <bigreactors:dustmetals>],
-	[<mysticalagriculture:supremium_essence>, <mysticalagriculture:tier5_crafting_seed>, <mysticalagriculture:supremium_essence>],
-	[<bigreactors:dustmetals>, <mysticalagriculture:supremium_essence>, <bigreactors:dustmetals>]]);
-
-recipes.addShaped(<enderio:blockEndermanSkull>,
-	[[null, <ore:pearlEnder>, null],
-	[null, <ore:skullEnderman>, null],
-	[<ore:pearlEnder>, null, <ore:pearlEnder>]]);
-
-recipes.addShaped(<tconstruct:materials:11>,
-	[[<ore:nuggetAluminum>, <ore:nuggetAluminum>, <ore:nuggetAluminum>],
-	[<ore:nuggetAluminum>, <ore:nuggetAluminum>, <ore:nuggetAluminum>],
-	[<ore:nuggetAluminum>, <ore:nuggetAluminum>, <ore:nuggetAluminum>]]);
-
-// Prosperity Ore
-recipes.addShaped(<mysticalagriculture:prosperity_shard>,
-	[[<biomesoplenty:gem:6>, <biomesoplenty:gem:3>, <biomesoplenty:gem:5>],
-	[<minecraft:emerald>, <mysticalagriculture:master_infusion_crystal>, <minecraft:emerald>],
-	[<minecraft:diamond>, <extrautils2:compressedcobblestone:4>, <minecraft:diamond>]]);
+	[[<bigreactors:dustmetals>, <mysticalagriculture:crafting:5>, <bigreactors:dustmetals>],
+	[<mysticalagriculture:crafting:5>, <mysticalagriculture:crafting:21, <mysticalagriculture:crafting:5>],
+	[<bigreactors:dustmetals>, <mysticalagriculture:crafting:5>, <bigreactors:dustmetals>]]);
 
 // Nether Star
 recipes.addShaped(<minecraft:nether_star>,
-	[[<extrautils2:compressedcobblestone:6>, <ic2:iridium_drill>, <extrautils2:compressedcobblestone:6>],
-	 [<mysticalagriculture:wither_skeleton_chunk>, <mysticalagriculture:wither_skeleton_chunk>, <mysticalagriculture:wither_skeleton_chunk>],
-	 [<mysticalagriculture:manyullyn_seeds>, <mysticalagriculture:supremium_block>, <mysticalagriculture:draconium_seeds>]]);
-
-recipes.addShaped(<minecraft:nether_star>,
-	[[<ore:compressedcobblestone7x>, <ic2:iridium_reflector>, <ore:compressedcobblestone7x>],
-	 [<ore:skullWitherSkeleton>, <ore:skullWitherSkeleton>, <ore:skullWitherSkeleton>],
-	 [<mysticalagriculture:manyullyn_seeds>, <mysticalagriculture:supremium_block>, <mysticalagriculture:draconium_seeds>]]);
+	[[, <ic2:iridium_reflector>,],
+	 [<minecraft:skull:1>, <minecraft:skull:1>, <minecraft:skull:1>],
+	 [<mysticalagriculture:manyullyn_seeds>, <mysticalagriculture:ingot_storage:5>, <mysticalagriculture:draconium_seeds>]]);
 
 
+// Big Reactors
 // Single reactor casing from 4 lead, 4 graphite, and 1 iron.
 recipes.addShaped(<bigreactors:reactorcasing>,
 	[[<ore:ingotLead>, <ore:ingotGraphite>, <ore:ingotLead>],
@@ -146,9 +131,5 @@ recipes.addShaped(<bigreactors:reactorglass>,
 	[null, null, null],
 	[null, null, null]]);
 
-recipes.addShaped(<minecraft:nether_star>,
-	[[<ore:compressedcobblestone7x>, <ic2:iridium_reflector>, <ore:compressedcobblestone7x>],
-	 [<ore:skullWitherSkeleton>, <ore:skullWitherSkeleton>, <ore:skullWitherSkeleton>],
-	 [<mysticalagriculture:manyullyn_seeds>, <mysticalagriculture:supremium_block>, <mysticalagriculture:draconium_seeds>]]);
 
 
