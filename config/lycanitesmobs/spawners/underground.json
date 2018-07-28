@@ -6,7 +6,15 @@
   "mobCountMin": 8,
   "ignoreBiomes": false,
   "ignoreLightLevel": false,
-  "conditions": [],
+  "conditions": [
+    {
+      "type": "world",
+      "dimensionIds": [
+        4
+      ],
+      "dimensionListType": "blacklist"
+    }
+  ],
   "triggers": [
     {
       "type": "world",
