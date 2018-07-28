@@ -1,4 +1,4 @@
-14772 nodes in total
+14771 nodes in total
 Modifying this file won't have any effect!
 
 block.tap: ALL
@@ -9,6 +9,7 @@ command.EnderStorage.help: CMD
 command.EnderStorage: CMD
 command.advancement: CMD
 command.ae2: CMD
+command.aroma1997: CMD
 command.baubles: CMD
 command.bcore_ticktime: CMD
 command.bcore_util: CMD
@@ -34,6 +35,7 @@ command.de_upgrade: CMD
 command.debug: CMD
 command.defaultgamemode: CMD
 command.difficulty: CMD
+command.dimensionalworld: CMD
 command.dldForceInstallThemes: CMD
 command.dldInstallThemes: CMD
 command.dlddimid: CMD
@@ -134,17 +136,21 @@ command.ftb.edit_config.ZombieAwareness\Spawning: CMD
 command.ftb.edit_config.actuallyadditions: CMD
 command.ftb.edit_config.agricraft\config: CMD
 command.ftb.edit_config.appleskin: CMD
+command.ftb.edit_config.aroma1997\aroma1997core: CMD
+command.ftb.edit_config.aroma1997\aroma1997sdimension: CMD
 command.ftb.edit_config.baubles: CMD
 command.ftb.edit_config.beneath\beneath: CMD
 command.ftb.edit_config.betterbuilderswands: CMD
 command.ftb.edit_config.biomesoplenty\gameplay: CMD
 command.ftb.edit_config.biomesoplenty\misc: CMD
 command.ftb.edit_config.bloodmoon: CMD
+command.ftb.edit_config.bookshelf: CMD
 command.ftb.edit_config.botania: CMD
 command.ftb.edit_config.brandon3055\BrandonsCore: CMD
 command.ftb.edit_config.brandon3055\DraconicEvolution: CMD
 command.ftb.edit_config.chisel: CMD
 command.ftb.edit_config.clienttweaks: CMD
+command.ftb.edit_config.codechickenlib: CMD
 command.ftb.edit_config.cofh\core\client: CMD
 command.ftb.edit_config.cofh\core\common: CMD
 command.ftb.edit_config.cofh\core\friends: CMD
@@ -402,6 +408,7 @@ command.scoreboardinfo: CMD
 command.seed: CMD
 command.setblock: CMD
 command.setworldspawn: CMD
+command.sleep: CMD
 command.spawninfernal: CMD
 command.spawnpoint: CMD
 command.spreadplayers: CMD
@@ -827,6 +834,9 @@ ftbu.claims.block.edit.arcticmobs.frostfire: OP
 ftbu.claims.block.edit.arcticmobs.frostweb: OP
 ftbu.claims.block.edit.arcticmobs.icefire: OP
 ftbu.claims.block.edit.arcticmobs.ooze: OP
+ftbu.claims.block.edit.aroma1997sdimension.miningore: OP
+ftbu.claims.block.edit.aroma1997sdimension.miningportal: OP
+ftbu.claims.block.edit.aroma1997sdimension.portalframe: OP
 ftbu.claims.block.edit.beneath.teleporterbeneath: OP
 ftbu.claims.block.edit.bigreactors.blockmetals: OP
 ftbu.claims.block.edit.bigreactors.brore: OP
@@ -861,6 +871,8 @@ ftbu.claims.block.edit.biomesoplenty.bamboo: OP
 ftbu.claims.block.edit.biomesoplenty.bamboo_thatching: OP
 ftbu.claims.block.edit.biomesoplenty.biome_block: OP
 ftbu.claims.block.edit.biomesoplenty.blood: OP
+ftbu.claims.block.edit.biomesoplenty.blue_fire: OP
+ftbu.claims.block.edit.biomesoplenty.bramble_plant: OP
 ftbu.claims.block.edit.biomesoplenty.cherry_door_block: OP
 ftbu.claims.block.edit.biomesoplenty.cherry_fence: OP
 ftbu.claims.block.edit.biomesoplenty.cherry_fence_gate: OP
@@ -913,7 +925,6 @@ ftbu.claims.block.edit.biomesoplenty.jacaranda_door_block: OP
 ftbu.claims.block.edit.biomesoplenty.jacaranda_fence: OP
 ftbu.claims.block.edit.biomesoplenty.jacaranda_fence_gate: OP
 ftbu.claims.block.edit.biomesoplenty.jacaranda_stairs: OP
-ftbu.claims.block.edit.biomesoplenty.jelled_poison: OP
 ftbu.claims.block.edit.biomesoplenty.leaves_0: OP
 ftbu.claims.block.edit.biomesoplenty.leaves_1: OP
 ftbu.claims.block.edit.biomesoplenty.leaves_2: OP
@@ -968,10 +979,8 @@ ftbu.claims.block.edit.biomesoplenty.sapling_0: OP
 ftbu.claims.block.edit.biomesoplenty.sapling_1: OP
 ftbu.claims.block.edit.biomesoplenty.sapling_2: OP
 ftbu.claims.block.edit.biomesoplenty.seaweed: OP
-ftbu.claims.block.edit.biomesoplenty.stone_formations: OP
 ftbu.claims.block.edit.biomesoplenty.terrarium: OP
 ftbu.claims.block.edit.biomesoplenty.tree_moss: OP
-ftbu.claims.block.edit.biomesoplenty.turnip_block: OP
 ftbu.claims.block.edit.biomesoplenty.umbran_door_block: OP
 ftbu.claims.block.edit.biomesoplenty.umbran_fence: OP
 ftbu.claims.block.edit.biomesoplenty.umbran_fence_gate: OP
@@ -4552,6 +4561,9 @@ ftbu.claims.block.interact.arcticmobs.frostfire: OP
 ftbu.claims.block.interact.arcticmobs.frostweb: OP
 ftbu.claims.block.interact.arcticmobs.icefire: OP
 ftbu.claims.block.interact.arcticmobs.ooze: OP
+ftbu.claims.block.interact.aroma1997sdimension.miningore: OP
+ftbu.claims.block.interact.aroma1997sdimension.miningportal: OP
+ftbu.claims.block.interact.aroma1997sdimension.portalframe: OP
 ftbu.claims.block.interact.beneath.teleporterbeneath: OP
 ftbu.claims.block.interact.bigreactors.blockmetals: OP
 ftbu.claims.block.interact.bigreactors.brore: OP
@@ -4586,6 +4598,8 @@ ftbu.claims.block.interact.biomesoplenty.bamboo: OP
 ftbu.claims.block.interact.biomesoplenty.bamboo_thatching: OP
 ftbu.claims.block.interact.biomesoplenty.biome_block: OP
 ftbu.claims.block.interact.biomesoplenty.blood: OP
+ftbu.claims.block.interact.biomesoplenty.blue_fire: OP
+ftbu.claims.block.interact.biomesoplenty.bramble_plant: OP
 ftbu.claims.block.interact.biomesoplenty.cherry_door_block: ALL
 ftbu.claims.block.interact.biomesoplenty.cherry_fence: OP
 ftbu.claims.block.interact.biomesoplenty.cherry_fence_gate: OP
@@ -4638,7 +4652,6 @@ ftbu.claims.block.interact.biomesoplenty.jacaranda_door_block: ALL
 ftbu.claims.block.interact.biomesoplenty.jacaranda_fence: OP
 ftbu.claims.block.interact.biomesoplenty.jacaranda_fence_gate: OP
 ftbu.claims.block.interact.biomesoplenty.jacaranda_stairs: OP
-ftbu.claims.block.interact.biomesoplenty.jelled_poison: OP
 ftbu.claims.block.interact.biomesoplenty.leaves_0: OP
 ftbu.claims.block.interact.biomesoplenty.leaves_1: OP
 ftbu.claims.block.interact.biomesoplenty.leaves_2: OP
@@ -4693,10 +4706,8 @@ ftbu.claims.block.interact.biomesoplenty.sapling_0: OP
 ftbu.claims.block.interact.biomesoplenty.sapling_1: OP
 ftbu.claims.block.interact.biomesoplenty.sapling_2: OP
 ftbu.claims.block.interact.biomesoplenty.seaweed: OP
-ftbu.claims.block.interact.biomesoplenty.stone_formations: OP
 ftbu.claims.block.interact.biomesoplenty.terrarium: OP
 ftbu.claims.block.interact.biomesoplenty.tree_moss: OP
-ftbu.claims.block.interact.biomesoplenty.turnip_block: OP
 ftbu.claims.block.interact.biomesoplenty.umbran_door_block: ALL
 ftbu.claims.block.interact.biomesoplenty.umbran_fence: OP
 ftbu.claims.block.interact.biomesoplenty.umbran_fence_gate: OP
@@ -8525,6 +8536,10 @@ ftbu.claims.item.arcticmobs.tundracharge: ALL
 ftbu.claims.item.arcticmobs.tundrascepter: ALL
 ftbu.claims.item.arcticmobs.yetimeatcooked: ALL
 ftbu.claims.item.arcticmobs.yetimeatraw: ALL
+ftbu.claims.item.aroma1997sdimension.dimensionchanger: ALL
+ftbu.claims.item.aroma1997sdimension.miningmultitool: ALL
+ftbu.claims.item.aroma1997sdimension.miningore: ALL
+ftbu.claims.item.aroma1997sdimension.portalframe: ALL
 ftbu.claims.item.baubles.ring: ALL
 ftbu.claims.item.beneath.teleporterbeneath: ALL
 ftbu.claims.item.betterbuilderswands.wanddiamond: ALL
@@ -8563,7 +8578,6 @@ ftbu.claims.item.bigreactors.turbinepowertaptesla: ALL
 ftbu.claims.item.bigreactors.turbinerotorblade: ALL
 ftbu.claims.item.bigreactors.turbinerotorshaft: ALL
 ftbu.claims.item.bigreactors.wrench: ALL
-ftbu.claims.item.biomesoplenty.ambrosia: ALL
 ftbu.claims.item.biomesoplenty.ash: ALL
 ftbu.claims.item.biomesoplenty.ash_block: ALL
 ftbu.claims.item.biomesoplenty.bamboo: ALL
@@ -8574,6 +8588,7 @@ ftbu.claims.item.biomesoplenty.biome_essence: ALL
 ftbu.claims.item.biomesoplenty.biome_finder: ALL
 ftbu.claims.item.biomesoplenty.black_dye: ALL
 ftbu.claims.item.biomesoplenty.blue_dye: ALL
+ftbu.claims.item.biomesoplenty.blue_fire: ALL
 ftbu.claims.item.biomesoplenty.boat_cherry: ALL
 ftbu.claims.item.biomesoplenty.boat_ebony: ALL
 ftbu.claims.item.biomesoplenty.boat_ethereal: ALL
@@ -8590,6 +8605,7 @@ ftbu.claims.item.biomesoplenty.boat_redwood: ALL
 ftbu.claims.item.biomesoplenty.boat_sacred_oak: ALL
 ftbu.claims.item.biomesoplenty.boat_umbran: ALL
 ftbu.claims.item.biomesoplenty.boat_willow: ALL
+ftbu.claims.item.biomesoplenty.bramble_plant: ALL
 ftbu.claims.item.biomesoplenty.brown_dye: ALL
 ftbu.claims.item.biomesoplenty.cherry_door: ALL
 ftbu.claims.item.biomesoplenty.cherry_fence: ALL
@@ -8648,7 +8664,6 @@ ftbu.claims.item.biomesoplenty.jacaranda_fence_gate: ALL
 ftbu.claims.item.biomesoplenty.jacaranda_stairs: ALL
 ftbu.claims.item.biomesoplenty.jar_empty: ALL
 ftbu.claims.item.biomesoplenty.jar_filled: ALL
-ftbu.claims.item.biomesoplenty.jelled_poison: ALL
 ftbu.claims.item.biomesoplenty.leaves_0: ALL
 ftbu.claims.item.biomesoplenty.leaves_1: ALL
 ftbu.claims.item.biomesoplenty.leaves_2: ALL
@@ -8691,8 +8706,6 @@ ftbu.claims.item.biomesoplenty.pine_door: ALL
 ftbu.claims.item.biomesoplenty.pine_fence: ALL
 ftbu.claims.item.biomesoplenty.pine_fence_gate: ALL
 ftbu.claims.item.biomesoplenty.pine_stairs: ALL
-ftbu.claims.item.biomesoplenty.pinecone: ALL
-ftbu.claims.item.biomesoplenty.pixie_dust: ALL
 ftbu.claims.item.biomesoplenty.planks_0: ALL
 ftbu.claims.item.biomesoplenty.plant_0: ALL
 ftbu.claims.item.biomesoplenty.plant_1: ALL
@@ -8706,21 +8719,14 @@ ftbu.claims.item.biomesoplenty.sacred_oak_door: ALL
 ftbu.claims.item.biomesoplenty.sacred_oak_fence: ALL
 ftbu.claims.item.biomesoplenty.sacred_oak_fence_gate: ALL
 ftbu.claims.item.biomesoplenty.sacred_oak_stairs: ALL
-ftbu.claims.item.biomesoplenty.saladfruit: ALL
-ftbu.claims.item.biomesoplenty.saladshroom: ALL
-ftbu.claims.item.biomesoplenty.saladveggie: ALL
 ftbu.claims.item.biomesoplenty.sapling_0: ALL
 ftbu.claims.item.biomesoplenty.sapling_1: ALL
 ftbu.claims.item.biomesoplenty.sapling_2: ALL
 ftbu.claims.item.biomesoplenty.seaweed: ALL
 ftbu.claims.item.biomesoplenty.shroompowder: ALL
-ftbu.claims.item.biomesoplenty.stone_formations: ALL
 ftbu.claims.item.biomesoplenty.terrarium: ALL
 ftbu.claims.item.biomesoplenty.terrestrial_artifact: ALL
 ftbu.claims.item.biomesoplenty.tree_moss: ALL
-ftbu.claims.item.biomesoplenty.turnip: ALL
-ftbu.claims.item.biomesoplenty.turnip_block: ALL
-ftbu.claims.item.biomesoplenty.turnip_seeds: ALL
 ftbu.claims.item.biomesoplenty.umbran_door: ALL
 ftbu.claims.item.biomesoplenty.umbran_fence: ALL
 ftbu.claims.item.biomesoplenty.umbran_fence_gate: ALL
