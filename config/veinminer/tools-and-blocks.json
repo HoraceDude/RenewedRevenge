@@ -368,6 +368,8 @@
         "appliedenergistics2:charged_quartz_ore/0",
         "appliedenergistics2:quartz_ore/0",
         "bigreactors:brore/0",
+        "bigreactors:brore/1",
+        "bigreactors:brore/2",
         "biomesoplenty:gem_ore/0",
         "biomesoplenty:gem_ore/1",
         "biomesoplenty:gem_ore/2",
@@ -433,7 +435,13 @@
         "thermalfoundation:ore_fluid/1",
         "thermalfoundation:ore_fluid/2",
         "thermalfoundation:ore_fluid/3",
-        "thermalfoundation:ore_fluid/4"
+        "thermalfoundation:ore_fluid/4",
+        "thermalfoundation:ore_fluid/5",
+        "tp:ender_ore/0",
+        "tp:lava_block/0",
+        "tp:nether_wub_ore/0",
+        "tp:water_block/0",
+        "tp:wub_ore/0"
       ]
     },
     "shears": {
