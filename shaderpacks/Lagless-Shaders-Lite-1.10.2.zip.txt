@@ -1,3 +1,0 @@
-#Sun Oct 01 12:31:01 CDT 2017
-WAVING_GRASS=false
-WAVING_LEAVES=false
