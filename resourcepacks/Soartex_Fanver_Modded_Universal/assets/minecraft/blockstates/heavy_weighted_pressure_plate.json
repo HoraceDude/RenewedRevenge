@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "power=0": { "model": "redstone/heavy_pressure_plate_up" },
+        "power=1": { "model": "redstone/heavy_pressure_plate_down" },
+        "power=2": { "model": "redstone/heavy_pressure_plate_down" },
+        "power=3": { "model": "redstone/heavy_pressure_plate_down" },
+        "power=4": { "model": "redstone/heavy_pressure_plate_down" },
+        "power=5": { "model": "redstone/heavy_pressure_plate_down" },
+        "power=6": { "model": "redstone/heavy_pressure_plate_down" },
+        "power=7": { "model": "redstone/heavy_pressure_plate_down" },
+        "power=8": { "model": "redstone/heavy_pressure_plate_down" },
+        "power=9": { "model": "redstone/heavy_pressure_plate_down" },
+        "power=10": { "model": "redstone/heavy_pressure_plate_down" },
+        "power=11": { "model": "redstone/heavy_pressure_plate_down" },
+        "power=12": { "model": "redstone/heavy_pressure_plate_down" },
+        "power=13": { "model": "redstone/heavy_pressure_plate_down" },
+        "power=14": { "model": "redstone/heavy_pressure_plate_down" },
+        "power=15": { "model": "redstone/heavy_pressure_plate_down" }
+    }
+}

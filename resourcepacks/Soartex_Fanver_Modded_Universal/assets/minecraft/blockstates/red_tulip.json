@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "flower/red_tulip_1" },
+            { "model": "flower/red_tulip_2" }
+        ]
+    }
+}
+

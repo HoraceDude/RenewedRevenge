@@ -1,0 +1,7 @@
+{
+    "parent": "block/pane/post_ends",
+    "textures": {
+      "edge": "blocks/glass_pane_top_white",
+      "pane": "blocks/glass_white"
+    }
+}
