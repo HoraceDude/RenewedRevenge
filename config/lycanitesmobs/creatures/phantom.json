@@ -2,9 +2,9 @@
   "name": "phantom",
   "class": "com.lycanitesmobs.shadowmobs.entity.EntityPhantom",
   "loadDefault": true,
-  "enabled": true,
+  "enabled": false,
   "spawning": {
-    "enabled": true,
+    "enabled": false,
     "spawners": [
       "sky"
     ],
@@ -21,7 +21,7 @@
     "spawnGroupMin": 1,
     "spawnGroupMax": 3,
     "spawnsInLight": false,
-    "spawnsInDark": true,
+    "spawnsInDark": false,
     "worldDayMin": -1,
     "despawnNatural": true,
     "despawnForced": false
