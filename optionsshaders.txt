@@ -1,5 +1,5 @@
-#Mon Mar 19 20:20:23 CDT 2018
-shaderPack=OFF
+#Sat Aug 04 15:54:30 CDT 2018
+shaderPack=BSL-Shaders-All-Versions-Standard.zip
 antialiasingLevel=0
 normalMapEnabled=true
 specularMapEnabled=true

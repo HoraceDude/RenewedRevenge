@@ -1,0 +1,61 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "transform": "forge:default-block",
+    "model": "cube_all"
+  },
+  "variants": {
+    "inventory,type=copper": [
+      { "textures": { "all": "soartex_base:blocks/metal/storage/copper" } }
+    ],
+    "inventory,type=aluminum": [
+      { "textures": { "all": "soartex_base:blocks/metal/storage/aluminum" } }
+    ],
+    "inventory,type=lead": [
+      { "textures": { "all": "soartex_base:blocks/metal/storage/lead" } }
+    ],
+    "inventory,type=silver": [
+      { "textures": { "all": "soartex_base:blocks/metal/storage/silver" } }
+    ],
+    "inventory,type=nickel": [
+      { "textures": { "all": "soartex_base:blocks/metal/storage/nickel" } }
+    ],
+    "inventory,type=constantan": [
+      {
+        "textures": { "all": "soartex_base:blocks/metal/storage/constantan" }
+      }
+    ],
+    "inventory,type=electrum": [
+      { "textures": { "all": "soartex_base:blocks/metal/storage/electrum" } }
+    ],
+    "inventory,type=steel": [
+      { "textures": { "all": "soartex_base:blocks/metal/storage/steel" } }
+    ],
+    "type": {
+      "copper": {
+        "textures": { "all": "soartex_base:blocks/metal/storage/copper" }
+      },
+      "aluminum": {
+        "textures": { "all": "soartex_base:blocks/metal/storage/aluminum" }
+      },
+      "lead": {
+        "textures": { "all": "soartex_base:blocks/metal/storage/lead" }
+      },
+      "silver": {
+        "textures": { "all": "soartex_base:blocks/metal/storage/silver" }
+      },
+      "nickel": {
+        "textures": { "all": "soartex_base:blocks/metal/storage/nickel" }
+      },
+      "constantan": {
+        "textures": { "all": "soartex_base:blocks/metal/storage/constantan" }
+      },
+      "electrum": {
+        "textures": { "all": "soartex_base:blocks/metal/storage/electrum" }
+      },
+      "steel": {
+        "textures": { "all": "soartex_base:blocks/metal/storage/steel" }
+      }
+    }
+  }
+}
