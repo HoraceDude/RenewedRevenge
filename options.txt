@@ -15,7 +15,7 @@ difficulty:2
 fancyGraphics:false
 ao:2
 renderClouds:fast
-resourcePacks:["Soartex_Fanver_Modded_Universal.zip"]
+resourcePacks:["RenewedSwarmResourcePack"]
 incompatibleResourcePacks:[]
 lastServer:192.168.0.100:17435
 lang:en_us
