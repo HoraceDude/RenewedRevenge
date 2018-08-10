@@ -1,8 +1,0 @@
-{
-    "parent": "block/rail/golden_rail_raised_sw",
-    "textures": {
-        "particle": "blocks/rail_golden_powered",
-        "texture": "blocks/rail_golden_powered",
-        "rail_parts": "blocks/rail/rail_parts"
-    }
-}

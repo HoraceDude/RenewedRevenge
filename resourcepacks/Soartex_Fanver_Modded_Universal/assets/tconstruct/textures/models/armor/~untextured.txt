@@ -1,2 +1,0 @@
-piggyback_layer_1.png
-slime_layer_1.png

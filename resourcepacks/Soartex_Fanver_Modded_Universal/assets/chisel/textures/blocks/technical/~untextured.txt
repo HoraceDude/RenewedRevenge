@@ -1,3 +1,0 @@
-old.png
-vent-top-ctm.png
-wires.png

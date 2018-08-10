@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "normal": [
-            { "model": "flower/daisy_1" },
-            { "model": "flower/daisy_2" }
-        ]
-    }
-}

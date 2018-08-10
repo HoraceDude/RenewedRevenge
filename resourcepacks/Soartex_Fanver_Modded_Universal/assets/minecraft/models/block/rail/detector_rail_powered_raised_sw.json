@@ -1,9 +1,0 @@
-{
-    "parent": "block/rail/detector_rail_raised_sw",
-    "textures": {
-        "texture": "blocks/rail_detector_powered",
-        "particle": "blocks/rail_detector_powered",
-        "rail": "blocks/rail_normal",
-        "rail_parts": "blocks/rail/rail_parts"
-    }
-}

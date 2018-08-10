@@ -1,2 +1,0 @@
-grad.png
-particle.png

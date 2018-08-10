@@ -1,0 +1,1 @@
+start "%~dp0"   "C:\Program Files\Git\bin\sh.exe" --login -i

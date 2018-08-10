@@ -1,6 +1,0 @@
-brick_cracked.png
-brick.png
-brick_triangle.png
-creeper.png
-paver.png
-tile.png

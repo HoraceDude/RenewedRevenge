@@ -1,6 +1,0 @@
-{
-    "variants": {
-        "powered=false": { "model": "redstone/wooden_pressure_plate_up" },
-        "powered=true": { "model": "redstone/wooden_pressure_plate_down" }
-    }
-}

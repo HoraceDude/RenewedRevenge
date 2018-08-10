@@ -1,5 +1,0 @@
-book
-bookfront
-crafting
-misc
-smelting

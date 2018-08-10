@@ -1,8 +1,0 @@
-{
-    "parent": "block/rail/activator_rail_flat",
-    "textures": {
-        "particle": "blocks/rail_activator_powered",
-        "texture": "blocks/rail_activator_powered",
-        "rail_parts": "blocks/rail/rail_parts"
-    }
-}

@@ -1,9 +1,0 @@
-{
-    "variants": {
-        "normal": [
-            { "model": "flower/poppy_1" },
-            { "model": "flower/poppy_2" }
-        ]
-    }
-}
-

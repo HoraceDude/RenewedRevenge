@@ -1,3 +1,0 @@
-bevel-skeleton.png
-glyphs.png
-small.png

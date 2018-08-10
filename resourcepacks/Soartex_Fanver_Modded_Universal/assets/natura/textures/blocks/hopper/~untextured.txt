@@ -1,3 +1,0 @@
-blaze_hopper_inside.png
-blaze_hopper_outside.png
-blaze_hopper_top.png

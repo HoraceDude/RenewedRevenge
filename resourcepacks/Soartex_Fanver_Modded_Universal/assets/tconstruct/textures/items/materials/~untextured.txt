@@ -1,8 +1,0 @@
-ardite_rust.png
-expander_h.png
-expander_w.png
-ingot_knightslime.png
-mending_moss.png
-mud_brick.png
-nugget_knightslime.png
-reinforcement.png

@@ -1,4 +1,0 @@
-efln.png
-glowball.png
-piggybackpack.png
-slimesling.png

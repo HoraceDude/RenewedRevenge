@@ -1,4 +1,0 @@
-emboss.png
-emboss-ctm.png
-indent.png
-indent-ctm.png

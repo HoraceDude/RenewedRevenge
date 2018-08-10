@@ -1,7 +1,0 @@
-{
-  "forge_marker":1,
-  "textures": {
-    "all": "soartex_base:blocks/metal/storage/lead"
-  },
-  "parent": "block/cube_all"
-}

@@ -1,4 +1,0 @@
-chrono.png
-chrono-ctm.png
-terrain-glass-ornatesteel-old.png
-terrain-glass-screen.png

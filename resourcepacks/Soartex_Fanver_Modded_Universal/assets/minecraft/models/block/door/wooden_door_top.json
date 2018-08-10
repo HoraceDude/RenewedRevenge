@@ -1,8 +1,0 @@
-{
-    "parent": "block/door/door_top",
-    "textures": {
-        "particle": "blocks/door/wood/upper",
-        "texture": "blocks/door/wood/upper",
-		"frame": "blocks/door/wood/trim"
-    }
-}

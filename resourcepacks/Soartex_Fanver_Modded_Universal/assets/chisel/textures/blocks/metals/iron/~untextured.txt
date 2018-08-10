@@ -1,5 +1,0 @@
-scaffold.png
-scaffold-ctm.png
-thermal-bottom.png
-thermal-side.png
-thermal-top.png
