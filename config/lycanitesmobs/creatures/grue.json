@@ -75,12 +75,6 @@
       "chance": 0.5
     },
     {
-      "item": "minecraft:obsidian",
-      "minAmount": 1,
-      "maxAmount": 2,
-      "chance": 0.5
-    },
-    {
       "item": "shadowmobs:soulstoneshadow",
       "minAmount": 1,
       "maxAmount": 1,

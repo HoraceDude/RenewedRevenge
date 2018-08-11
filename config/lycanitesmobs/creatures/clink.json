@@ -71,12 +71,6 @@
   "dungeonLevel": 1,
   "drops": [
     {
-      "item": "minecraft:iron_ingot",
-      "minAmount": 1,
-      "maxAmount": 3,
-      "chance": 0.5
-    },
-    {
       "item": "desertmobs:throwingscythe",
       "minAmount": 2,
       "maxAmount": 7,
