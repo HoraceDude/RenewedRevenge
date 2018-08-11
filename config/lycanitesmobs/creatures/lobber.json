@@ -83,12 +83,6 @@
       "chance": 1
     },
     {
-      "item": "minecraft:blaze_powder",
-      "minAmount": 1,
-      "maxAmount": 6,
-      "chance": 1
-    },
-    {
       "item": "infernomobs:magmacharge",
       "minAmount": 1,
       "maxAmount": 3,

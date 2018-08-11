@@ -69,12 +69,6 @@
   "dungeonLevel": 3,
   "drops": [
     {
-      "item": "minecraft:iron_ingot",
-      "minAmount": 1,
-      "maxAmount": 3,
-      "chance": 1
-    },
-    {
       "item": "minecraft:redstone",
       "minAmount": 3,
       "maxAmount": 8,
