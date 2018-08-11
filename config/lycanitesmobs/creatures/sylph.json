@@ -70,12 +70,6 @@
       "chance": 1
     },
     {
-      "item": "minecraft:gold_nugget",
-      "minAmount": 3,
-      "maxAmount": 9,
-      "chance": 1
-    },
-    {
       "item": "lycanitesmobs:cleansingcrystal",
       "minAmount": 1,
       "maxAmount": 1,

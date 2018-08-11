@@ -72,12 +72,6 @@
       "chance": 1
     },
     {
-      "item": "minecraft:blaze_rod",
-      "minAmount": 1,
-      "maxAmount": 1,
-      "chance": 0.25
-    },
-    {
       "item": "elementalmobs:acidsplashcharge",
       "minAmount": 1,
       "maxAmount": 1,

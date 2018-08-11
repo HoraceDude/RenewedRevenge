@@ -66,12 +66,6 @@
       "chance": 0.5
     },
     {
-      "item": "minecraft:blaze_rod",
-      "minAmount": 1,
-      "maxAmount": 1,
-      "chance": 0.1
-    },
-    {
       "item": "elementalmobs:embercharge",
       "minAmount": 1,
       "maxAmount": 1,

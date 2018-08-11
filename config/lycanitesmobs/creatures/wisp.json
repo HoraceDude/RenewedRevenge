@@ -69,12 +69,6 @@
       "chance": 1
     },
     {
-      "item": "minecraft:gold_nugget",
-      "minAmount": 1,
-      "maxAmount": 3,
-      "chance": 0.5
-    },
-    {
       "item": "elementalmobs:lightball",
       "minAmount": 1,
       "maxAmount": 1,
