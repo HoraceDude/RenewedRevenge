@@ -83,18 +83,6 @@
       "minAmount": 3,
       "maxAmount": 6,
       "chance": 0.75
-    },
-    {
-      "item": "minecraft:emerald",
-      "minAmount": 1,
-      "maxAmount": 3,
-      "chance": 0.25
-    },
-    {
-      "item": "minecraft:diamond",
-      "minAmount": 1,
-      "maxAmount": 1,
-      "chance": 0.1
     }
   ],
   "sizeScale": 1,
