@@ -74,12 +74,6 @@
       "minAmount": 3,
       "maxAmount": 5,
       "chance": 1
-    },
-    {
-      "item": "minecraft:blaze_powder",
-      "minAmount": 3,
-      "maxAmount": 6,
-      "chance": 1
     }
   ],
   "sizeScale": 1,

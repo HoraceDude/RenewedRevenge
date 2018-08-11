@@ -77,18 +77,6 @@
       "chance": 0.5
     },
     {
-      "item": "minecraft:iron_ore",
-      "minAmount": 2,
-      "maxAmount": 3,
-      "chance": 0.5
-    },
-    {
-      "item": "minecraft:gold_ore",
-      "minAmount": 1,
-      "maxAmount": 2,
-      "chance": 0.25
-    },
-    {
       "item": "minecraft:clay_ball",
       "minAmount": 6,
       "maxAmount": 12,
