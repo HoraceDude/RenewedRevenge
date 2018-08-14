@@ -1,7 +1,7 @@
 {
   "name": "afrit",
   "class": "com.lycanitesmobs.infernomobs.entity.EntityAfrit",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
