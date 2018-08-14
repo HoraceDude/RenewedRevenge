@@ -1,7 +1,7 @@
 {
   "name": "aegis",
   "class": "com.lycanitesmobs.elementalmobs.entity.EntityAegis",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,

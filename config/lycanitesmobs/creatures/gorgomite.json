@@ -1,7 +1,7 @@
 {
   "name": "gorgomite",
   "class": "com.lycanitesmobs.desertmobs.entity.EntityGorgomite",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,

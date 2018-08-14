@@ -1,7 +1,7 @@
 {
   "name": "lobber",
   "class": "com.lycanitesmobs.infernomobs.entity.EntityLobber",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,

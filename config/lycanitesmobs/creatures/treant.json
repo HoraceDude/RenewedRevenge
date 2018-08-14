@@ -1,7 +1,7 @@
 {
   "name": "treant",
   "class": "com.lycanitesmobs.forestmobs.entity.EntityTreant",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,

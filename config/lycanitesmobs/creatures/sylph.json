@@ -1,7 +1,7 @@
 {
   "name": "sylph",
   "class": "com.lycanitesmobs.elementalmobs.entity.EntitySylph",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
