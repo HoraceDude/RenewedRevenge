@@ -1,7 +1,7 @@
 {
   "name": "tremor",
   "class": "com.lycanitesmobs.elementalmobs.entity.EntityTremor",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,

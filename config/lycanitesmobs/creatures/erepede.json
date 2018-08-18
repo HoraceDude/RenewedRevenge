@@ -1,7 +1,7 @@
 {
   "name": "erepede",
   "class": "com.lycanitesmobs.desertmobs.entity.EntityErepede",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
