@@ -1,7 +1,7 @@
 {
   "name": "crusk",
   "class": "com.lycanitesmobs.desertmobs.entity.EntityCrusk",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,

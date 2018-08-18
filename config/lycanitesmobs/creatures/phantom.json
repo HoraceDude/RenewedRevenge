@@ -1,10 +1,10 @@
 {
   "name": "phantom",
   "class": "com.lycanitesmobs.shadowmobs.entity.EntityPhantom",
-  "loadDefault": true,
-  "enabled": true,
+  "loadDefault": false,
+  "enabled": false,
   "spawning": {
-    "enabled": true,
+    "enabled": false,
     "spawners": [
       "sky"
     ],

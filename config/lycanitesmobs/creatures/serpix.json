@@ -1,7 +1,7 @@
 {
   "name": "serpix",
   "class": "com.lycanitesmobs.arcticmobs.entity.EntitySerpix",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,

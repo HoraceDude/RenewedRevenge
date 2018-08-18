@@ -1,7 +1,7 @@
 {
   "name": "argus",
   "class": "com.lycanitesmobs.elementalmobs.entity.EntityArgus",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,

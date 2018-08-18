@@ -1,7 +1,7 @@
 {
   "name": "spectre",
   "class": "com.lycanitesmobs.elementalmobs.entity.EntitySpectre",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
