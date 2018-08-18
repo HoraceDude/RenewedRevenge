@@ -1,5 +1,5 @@
 #Sat Aug 04 15:54:30 CDT 2018
-shaderPack=BSL-Shaders-All-Versions-Standard.zip
+shaderPack=SEUS Renewed 1.0.0.zip
 antialiasingLevel=0
 normalMapEnabled=true
 specularMapEnabled=true
