@@ -1,4 +1,10 @@
-var TwilightTrophy = <twilightforest:trophy:1>;
+var TwilightTrophyLich = <twilightforest:trophy:1>;
+var TwilightTrophyNaga = <twilightforest:trophy>;
+
+var GaiaSpirit = <botania:manaresource:5>;
+
+var ThaumcraftRareTreasureBag = <thaumcraft:loot_bag:2>
+var PriomordialPearl = <thaumcraft:primordial_pearl>
 
 recipes.removeShaped(<mysticalagriculture:crafting:17>);
 recipes.removeShaped(<mysticalagriculture:crafting:18>);
@@ -42,9 +48,9 @@ recipes.addShaped(<mysticalagriculture:crafting:21>,
 
 // Tier 6 crafting seed
 recipes.addShaped(<mysticalagradditions:insanium:1>,
-	[[TwilightTrophy.giveback(TwilightTrophy), <mysticalagradditions:insanium>, null],
+	[[TwilightTrophyLich.reuse(), <mysticalagradditions:insanium>, TwilightTrophyNaga.reuse()],
 	[<mysticalagradditions:insanium>, <mysticalagriculture:crafting:21>, <mysticalagradditions:insanium>],
-	[null, <mysticalagradditions:insanium>, null]]);	
+	[GaiaSpirit.reuse(), <mysticalagradditions:insanium>, PriomordialPearl.reuse()]]);	
 	
 
 recipes.addShaped(<mysticalagriculture:master_infusion_crystal>,
