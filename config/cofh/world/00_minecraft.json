@@ -152,7 +152,7 @@
 				"sparse": false
 			},
 			"cluster-count": 2,
-			"chunk-chance": 45,
+			"chunk-chance": 35,
 			"min-height": 0,
 			"max-height": 64,
 			"retrogen": false,
@@ -176,7 +176,7 @@
 				"sparse": false
 			},
 			"cluster-count": 2,
-			"chunk-chance": 50,
+			"chunk-chance": 40,
 			"min-height": 0,
 			"max-height": 32,
 			"retrogen": false,
@@ -220,11 +220,11 @@
 				"type": "large-vein",
 				"block": "diamond_ore",
 				"material": "minecraft:stone",
-				"cluster-size": 15,
+				"cluster-size": 25,
 				"sparse": false
 			},
 			"cluster-count": 2,
-			"chunk-chance": 55,
+			"chunk-chance": 45,
 			"min-height": 0,
 			"max-height": 16,
 			"retrogen": false,
@@ -248,7 +248,7 @@
 				"sparse": false
 			},
 			"cluster-count": 2,
-			"chunk-chance": 45,
+			"chunk-chance": 35,
 			"min-height": 0,
 			"max-height": 64,
 			"retrogen": false,

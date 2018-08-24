@@ -1,4 +1,11 @@
-var TwilightTrophy = <twilightforest:trophy:1>;
+var TwilightTrophyLich = <twilightforest:trophy:1>;
+var TwilightTrophyNaga = <twilightforest:trophy>;
+
+var GaiaSpirit = <botania:manaresource:5>;
+
+var PriomordialPearl = <thaumcraft:primordial_pearl>;
+
+var DragonHead = <minecraft:skull:5>;
 
 recipes.removeShaped(<mysticalagriculture:crafting:17>);
 recipes.removeShaped(<mysticalagriculture:crafting:18>);
@@ -24,7 +31,7 @@ recipes.addShaped(<mysticalagriculture:crafting:18>,
 
 // Tier 3 crafting seed
 recipes.addShaped(<mysticalagriculture:crafting:19>,
-	[[<extrautils2:compressedcobblestone:4>, <mysticalagriculture:crafting:2>, null],
+	[[<extrautils2:compressedcobblestone:4>, <mysticalagriculture:crafting:2>, TwilightTrophyNaga.reuse()],
 	[<mysticalagriculture:crafting:2>, <mysticalagriculture:crafting:18>, <mysticalagriculture:crafting:2>],
 	[<mysticalagriculture:slime_essence>, <mysticalagriculture:crafting:2>, <mysticalagriculture:dye_essence>]]);
 
@@ -38,13 +45,13 @@ recipes.addShaped(<mysticalagriculture:crafting:20>,
 recipes.addShaped(<mysticalagriculture:crafting:21>,
 	[[<mysticalagriculture:blaze_essence>, <mysticalagriculture:crafting:4>, <mysticalagriculture:chunk:20>],
 	[<mysticalagriculture:crafting:4>, <mysticalagriculture:crafting:20>, <mysticalagriculture:crafting:4>],
-	[<extrautils2:compressedcobblestone:6>, <mysticalagriculture:crafting:4>, <mysticalagriculture:steel_essence>]]);
+	[<extrautils2:compressedcobblestone:6>, <mysticalagriculture:crafting:4>, DragonHead.reuse()]]);
 
 // Tier 6 crafting seed
 recipes.addShaped(<mysticalagradditions:insanium:1>,
-	[[TwilightTrophy.giveback(TwilightTrophy), <mysticalagradditions:insanium>, null],
+	[[TwilightTrophyLich.reuse(), <mysticalagradditions:insanium>, ],
 	[<mysticalagradditions:insanium>, <mysticalagriculture:crafting:21>, <mysticalagradditions:insanium>],
-	[null, <mysticalagradditions:insanium>, null]]);	
+	[GaiaSpirit.reuse(), <mysticalagradditions:insanium>, PriomordialPearl.reuse()]]);	
 	
 
 recipes.addShaped(<mysticalagriculture:master_infusion_crystal>,
