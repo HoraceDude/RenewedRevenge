@@ -1,10 +1,10 @@
 {
   "name": "jengu",
   "class": "com.lycanitesmobs.elementalmobs.entity.EntityJengu",
-  "loadDefault": true,
-  "enabled": true,
+  "loadDefault": false,
+  "enabled": false,
   "spawning": {
-    "enabled": true,
+    "enabled": false,
     "spawners": [
       "water"
     ],
