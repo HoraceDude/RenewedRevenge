@@ -1,10 +1,10 @@
 {
   "name": "triffid",
   "class": "com.lycanitesmobs.swampmobs.entity.EntityTriffid",
-  "loadDefault": true,
-  "enabled": true,
+  "loadDefault": false,
+  "enabled": false,
   "spawning": {
-    "enabled": true,
+    "enabled": false,
     "spawners": [
       "monster",
       "beast"
