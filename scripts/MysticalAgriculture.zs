@@ -12,7 +12,6 @@ recipes.removeShaped(<mysticalagriculture:crafting:18>);
 recipes.removeShaped(<mysticalagriculture:crafting:19>);
 recipes.removeShaped(<mysticalagriculture:crafting:20>);
 recipes.removeShaped(<mysticalagriculture:crafting:21>);
-recipes.removeShaped(<mysticalagriculture:crafting:22>);
 recipes.removeShaped(<mysticalagradditions:insanium:1>);
 recipes.removeShaped(<mysticalagriculture:master_infusion_crystal>);
 
