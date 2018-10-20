@@ -1,5 +1,6 @@
 var TwilightTrophyLich = <twilightforest:trophy:1>;
 var TwilightTrophyNaga = <twilightforest:trophy>;
+var TerrestrialArtifact = <biomesoplenty:terrestrial_artifact>;
 
 var GaiaSpirit = <botania:manaresource:5>;
 
@@ -44,14 +45,18 @@ recipes.addShaped(<mysticalagriculture:crafting:20>,
 recipes.addShaped(<mysticalagriculture:crafting:21>,
 	[[<mysticalagriculture:blaze_essence>, <mysticalagriculture:crafting:4>, <mysticalagriculture:chunk:20>],
 	[<mysticalagriculture:crafting:4>, <mysticalagriculture:crafting:20>, <mysticalagriculture:crafting:4>],
-	[<extrautils2:compressedcobblestone:6>, <mysticalagriculture:crafting:4>, DragonHead.reuse()]]);
+	[<extrautils2:compressedcobblestone:6>, <mysticalagriculture:crafting:4>, TerrestrialArtifact.reuse()]]);
 
 // Tier 6 crafting seed
 recipes.addShaped(<mysticalagradditions:insanium:1>,
-	[[TwilightTrophyLich.reuse(), <mysticalagradditions:insanium>, ],
+	[[<twilightforest:trophy:5>, <mysticalagradditions:insanium>, DragonHead.reuse()],
 	[<mysticalagradditions:insanium>, <mysticalagriculture:crafting:21>, <mysticalagradditions:insanium>],
 	[GaiaSpirit.reuse(), <mysticalagradditions:insanium>, PriomordialPearl.reuse()]]);	
-	
+
+recipes.addShaped(<enderio:block_enderman_skull>,
+	[[<minecraft:skull>, <mysticalagriculture:enderman_essence>, <minecraft:skull>],
+	[<mysticalagriculture:enderman_essence>, <mysticalagriculture:enderman_essence>, <mysticalagriculture:enderman_essence>],
+	[<minecraft:skull>, <mysticalagriculture:enderman_essence>, <minecraft:skull>]]);
 
 recipes.addShaped(<mysticalagriculture:master_infusion_crystal>,
 	[[<mysticalagriculture:crafting:5>, <mysticalagriculture:crafting:5>, <mysticalagriculture:crafting:5>],
