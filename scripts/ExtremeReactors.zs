@@ -20,7 +20,7 @@ recipes.addShaped(<bigreactors:reactorcasing>,
 // Single reactor fuel rod from 6 hardened glass, 2 graphite, and one yellorium ingot.
 recipes.addShaped(<bigreactors:reactorfuelrod>,
 	[[<ore:blockGlassHardened>, <ore:ingotGraphite>, <ore:blockGlassHardened>],
-	 [<ore:blockGlassHardened>, <ore:ingotYellorium>, <ore:blockGlassHardened>],
+	 [<ore:blockGlassHardened>, <ic2:ingot:8>, <ore:blockGlassHardened>],
 	 [<ore:blockGlassHardened>, <ore:ingotGraphite>, <ore:blockGlassHardened>]
 	]);
 
@@ -28,12 +28,12 @@ recipes.addShaped(<bigreactors:reactorfuelrod>,
 recipes.addShaped(<bigreactors:reactorcontrolrod>,
 	[[<ore:ingotLead>, <ore:gearLead>, <ore:ingotLead>],
 	 [<ore:ingotGraphite>, <ore:dustRedstone>, <ore:ingotGraphite>],
-	 [<ore:ingotLead>, <ore:ingotYellorium>, <ore:ingotLead>]
+	 [<ore:ingotLead>, <ic2:ingot:8>, <ore:ingotLead>]
 	]);
 	
 recipes.addShaped(<bigreactors:reactorcontroller>,
 	[[<ore:gemDiamond>, null, <ore:gemDiamond>],
-	[<ore:ingotYellorium>, <bigreactors:reactorcasing>, <ore:ingotYellorium>],
+	[<ic2:ingot:8>, <bigreactors:reactorcasing>, <ic2:ingot:8>],
 	[<ore:gemDiamond>, <ore:dustRedstone>, <ore:gemDiamond>]]);
 	
 recipes.addShaped(<bigreactors:reactoraccessport>,
