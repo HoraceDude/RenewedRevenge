@@ -1,4 +1,5 @@
 recipes.removeShaped(<tconstruct:materials:10>);
+recipes.removeShaped(<tp:reinforced_obsidian>);
 
 // Nether Star
 recipes.addShaped(<minecraft:nether_star>,
