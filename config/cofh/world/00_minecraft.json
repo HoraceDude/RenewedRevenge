@@ -126,7 +126,7 @@
 			"generator": {
 				"block": "coal_ore",
 				"material": "minecraft:stone",
-				"cluster-size": 17
+				"cluster-size": 15
 			},
 			"cluster-count": 20,
 			"min-height": 0,
@@ -176,7 +176,7 @@
 				"sparse": false
 			},
 			"cluster-count": 2,
-			"chunk-chance": 40,
+			"chunk-chance": 50,
 			"min-height": 0,
 			"max-height": 32,
 			"retrogen": false,
@@ -224,7 +224,7 @@
 				"sparse": false
 			},
 			"cluster-count": 2,
-			"chunk-chance": 45,
+			"chunk-chance": 50,
 			"min-height": 0,
 			"max-height": 16,
 			"retrogen": false,
@@ -248,7 +248,7 @@
 				"sparse": false
 			},
 			"cluster-count": 2,
-			"chunk-chance": 35,
+			"chunk-chance": 55,
 			"min-height": 0,
 			"max-height": 64,
 			"retrogen": false,
@@ -311,7 +311,7 @@
 				"sparse": false
 			},
 			"cluster-count": 2,
-			"chunk-chance": 55,
+			"chunk-chance": 50,
 			"min-height": 4,
 			"max-height": 28,
 			"retrogen": false,

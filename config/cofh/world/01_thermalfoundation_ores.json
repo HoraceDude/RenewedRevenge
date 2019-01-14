@@ -24,6 +24,107 @@
 				]
 			}
 		},
+		"ChargedCertesQuartz": {
+			"distribution": "uniform",
+			"generator": {
+				"type": "large-vein",
+				"block": {
+					"name": "appliedenergistics2:charged_quartz_ore",
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 40,
+				"sparse": false
+			},
+			"cluster-count": 2,
+			"chunk-chance": 50,
+			"min-height": 20,
+			"max-height": 55,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"CertesQuartz": {
+			"distribution": "uniform",
+			"generator": {
+				"type": "large-vein",
+				"block": {
+					"name": "appliedenergistics2:quartz_ore",
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 40,
+				"sparse": false
+			},
+			"cluster-count": 2,
+			"chunk-chance": 35,
+			"min-height": 20,
+			"max-height": 55,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"ProsperityOre": {
+			"distribution": "uniform",
+			"generator": {
+				"type": "large-vein",
+				"block": {
+					"name": "mysticalagriculture:prosperity_ore",
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 40,
+				"sparse": false
+			},
+			"cluster-count": 2,
+			"chunk-chance": 35,
+			"min-height": 20,
+			"max-height": 55,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"Uranium": {
+			"distribution": "uniform",
+			"generator": {
+				"type": "large-vein",
+				"block": {
+					"name": "ic2:resource",
+					"metadata": 4
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 40,
+				"sparse": false
+			},
+			"cluster-count": 2,
+			"chunk-chance": 40,
+			"min-height": 20,
+			"max-height": 55,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
 		"tin": {
 			"distribution": "uniform",
 			"generator": {
