@@ -1,4 +1,4 @@
-#Sat Aug 04 15:54:30 CDT 2018
+#Wed Jan 30 15:27:05 CST 2019
 shaderPack=SEUS Renewed 1.0.0.zip
 antialiasingLevel=0
 normalMapEnabled=true
