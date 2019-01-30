@@ -1,8 +1,8 @@
 {
   "name": "ent",
   "class": "com.lycanitesmobs.forestmobs.entity.EntityEnt",
-  "loadDefault": true,
-  "enabled": true,
+  "loadDefault": false,
+  "enabled": false,
   "spawning": {
     "enabled": true,
     "spawners": [
