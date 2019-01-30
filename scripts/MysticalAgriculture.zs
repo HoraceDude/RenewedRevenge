@@ -4,7 +4,7 @@ var TerrestrialArtifact = <biomesoplenty:terrestrial_artifact>;
 
 var GaiaSpirit = <botania:manaresource:5>;
 
-var PriomordialPearl = <thaumcraft:primordial_pearl>;
+var CloudRing = <thaumcraft:cloud_ring>;
 
 var DragonHead = <minecraft:skull:5>;
 
@@ -51,7 +51,7 @@ recipes.addShaped(<mysticalagriculture:crafting:21>,
 recipes.addShaped(<mysticalagradditions:insanium:1>,
 	[[<twilightforest:trophy:5>, <mysticalagradditions:insanium>, DragonHead.reuse()],
 	[<mysticalagradditions:insanium>, <mysticalagriculture:crafting:21>, <mysticalagradditions:insanium>],
-	[GaiaSpirit.reuse(), <mysticalagradditions:insanium>, PriomordialPearl.reuse()]]);	
+	[GaiaSpirit.reuse(), <mysticalagradditions:insanium>, CloudRing.reuse()]]);	
 
 recipes.addShaped(<enderio:block_enderman_skull>,
 	[[<minecraft:skull>, <mysticalagriculture:enderman_essence>, <minecraft:skull>],
