@@ -37,7 +37,7 @@ recipes.addShaped(<mysticalagriculture:crafting:19>,
 
 // Tier 4 crafting seed
 recipes.addShaped(<mysticalagriculture:crafting:20>,
-	[[<extrautils2:compressedcobblestone:5>, <mysticalagriculture:crafting:3>, null],
+	[[<extrautils2:compressedcobblestone:5>, <mysticalagriculture:crafting:3>, TwilightTrophyLich.reuse()],
 	[<mysticalagriculture:crafting:3>, <mysticalagriculture:crafting:19>, <mysticalagriculture:crafting:3>],
 	[<mysticalagriculture:guardian_essence>, <mysticalagriculture:crafting:3>, <mysticalagriculture:creeper_essence>]]);
 
