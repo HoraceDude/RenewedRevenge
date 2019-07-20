@@ -62,4 +62,3 @@ recipes.addShaped(<mysticalagriculture:master_infusion_crystal>,
 	[[<mysticalagriculture:crafting:5>, <mysticalagriculture:crafting:5>, <mysticalagriculture:crafting:5>],
 	[<mysticalagriculture:crafting:5>, <minecraft:diamond_block>, <mysticalagriculture:crafting:5>],
 	[<minecraft:nether_star>, <mysticalagriculture:crafting:5>, <extrautils2:compressedcobblestone:5>]]);
-
