@@ -1,8 +1,8 @@
 {
   "name": "epion",
   "class": "com.lycanitesmobs.shadowmobs.entity.EntityEpion",
-  "loadDefault": true,
-  "enabled": true,
+  "loadDefault": false,
+  "enabled": false,
   "spawning": {
     "enabled": true,
     "spawners": [

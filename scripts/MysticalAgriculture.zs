@@ -37,7 +37,7 @@ recipes.addShaped(<mysticalagriculture:crafting:19>,
 
 // Tier 4 crafting seed
 recipes.addShaped(<mysticalagriculture:crafting:20>,
-	[[<extrautils2:compressedcobblestone:5>, <mysticalagriculture:crafting:3>, null],
+	[[<extrautils2:compressedcobblestone:5>, <mysticalagriculture:crafting:3>, TwilightTrophyLich.reuse()],
 	[<mysticalagriculture:crafting:3>, <mysticalagriculture:crafting:19>, <mysticalagriculture:crafting:3>],
 	[<mysticalagriculture:guardian_essence>, <mysticalagriculture:crafting:3>, <mysticalagriculture:creeper_essence>]]);
 
@@ -63,7 +63,3 @@ recipes.addShaped(<mysticalagriculture:master_infusion_crystal>,
 	[<mysticalagriculture:crafting:5>, <minecraft:diamond_block>, <mysticalagriculture:crafting:5>],
 	[<minecraft:nether_star>, <mysticalagriculture:crafting:5>, <extrautils2:compressedcobblestone:5>]]);
 
-recipes.addShaped(<mysticalagriculture:yellorium_seeds>,
-	[[<bigreactors:dustmetals>, <mysticalagriculture:crafting:5>, <bigreactors:dustmetals>],
-	[<mysticalagriculture:crafting:5>, <mysticalagriculture:crafting:21>, <mysticalagriculture:crafting:5>],
-	[<bigreactors:dustmetals>, <mysticalagriculture:crafting:5>, <bigreactors:dustmetals>]]);
